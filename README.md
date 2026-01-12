@@ -1,47 +1,33 @@
-## Hi there 👋
- <p>Visitor count</p>
-  <img src="https://komarev.com/ghpvc/?username=codingstudentJan&color=green" alt="Visitor's Count" />
-</div>
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Jan!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=36&center=true&vCenter=true&width=420&height=60&color=4493F8&duration=4000&lines=Hi+there+👋;+I'm+Jan;" />
 </h1>
 
-### Security-focused Software Engineer working on cryptography and secure systems.
-## 🛠️ Languages and Tools
-
-<br>
+<p align="center">
+  <strong>Security-focused Software Engineer</strong><br/>
+  Cryptography · Secure Systems · Backend Engineering
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,linux,docker,angular,cpp" />
+  <img src="https://komarev.com/ghpvc/?username=codingstudentJan&color=00ff9c&style=flat" alt="Profile views" />
 </p>
-<hr>
 
-## ⚡️ Stats
+---
 
-<br>
+## 🛠️ Languages & Tools
 
-<div align="center">
-  <img width="360" src="https://img.shields.io/github/stars/codingstudentJan?style=flat" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,linux,docker,cpp,angular" />
+</p>
+
+---
+
+## 📊 Stats
+
+<p align="center">
   <img width="360" src="https://github-readme-streak-stats.herokuapp.com/?user=codingstudentJan&theme=transparent" />
-</div>
-<div align="center">
-  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingstudentJan&layout=donut&theme=transparent&hide=css" />
-</div>
+</p>
 
-
-<hr>
-<!--
-**codingstudentJan/codingstudentJan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/codingstudentJan?style=flat" />
+  <img src="https://img.shields.io/github/followers/codingstudentJan?style=flat" />
+</p>

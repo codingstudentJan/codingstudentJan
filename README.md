@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center"> 
-  ![Visitor Count](https://profile-counter.glitch.me/codingstudentJan/count.svg)
+ ![Profile views](https://komarev.com/ghpvc/?username=codingstudentJan&color=green)
 </div>
 <!--
 **codingstudentJan/codingstudentJan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

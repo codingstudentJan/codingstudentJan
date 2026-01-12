@@ -2,7 +2,7 @@
  <p>Visitor count</p>
   <img src="https://komarev.com/ghpvc/?username=codingstudentJan&color=green" alt="Visitor's Count" />
 </div>
-![visitors](https://raw.githubusercontent.com/codingstudentJan/codingstudentJan/main/assets/visitors.svg)
+
 
 <!--
 **codingstudentJan/codingstudentJan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,6 @@
 ## Hi there 👋
 <div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/codingstudentJan/count.svg" alt="Visitor's Count" />
+  ![Visitor Count](https://profile-counter.glitch.me/codingstudentJan/count.svg)
 </div>
 <!--
 **codingstudentJan/codingstudentJan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

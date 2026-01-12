@@ -13,10 +13,9 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,mongodb,postgres" />
-  <img src="https://skillicons.dev/icons?i=linux,docker,python,cpp,bash,cmake" />
-  <img src="https://skillicons.dev/icons?i=html,css,d3,git,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,linux,docker,angular,cpp" />
 </p>
+
 
 <hr>
 <!--

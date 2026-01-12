@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-  <img width="360" src="https://github-readme-stats.vercel.app/api?username=codingstudentJan&theme=transparent&show_icons=true" />
+  <img width="360" src="https://github-readme-streak-stats.herokuapp.com/?user=codingstudentJan" />
   <img width="360" src="https://github-readme-streak-stats.herokuapp.com/?user=codingstudentJan&theme=transparent" />
 </div>
 <div align="center">

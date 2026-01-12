@@ -21,11 +21,14 @@
 
 <br>
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=codingstudentJan&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Jan's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=codingstudentJan&theme=transparent&count_private=true&border_radius=10&locale=en" alt="codingstudentJan's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=codingstudentJan&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="codingstudentJan's Most Used Languages" />
+<div align="center">
+  <img width="360" src="https://github-readme-stats.vercel.app/api?username=codingstudentJan&theme=transparent&show_icons=true" />
+  <img width="360" src="https://github-readme-streak-stats.herokuapp.com/?user=codingstudentJan&theme=transparent" />
 </div>
+<div align="center">
+  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingstudentJan&layout=donut&theme=transparent&hide=css" />
+</div>
+
 
 <hr>
 <!--

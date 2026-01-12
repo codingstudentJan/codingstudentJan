@@ -27,6 +27,11 @@
   <img src="https://img.shields.io/github/stars/codingstudentJan?style=flat" />
   <img src="https://img.shields.io/github/followers/codingstudentJan?style=flat" />
 </p>
+## Metrics
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codingstudentJan/codingstudentJan/main/github-metrics.svg" alt="metrics" />
+</p>
+
 ## 🐍 My Contributions
 
 <div align="center">

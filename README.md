@@ -24,7 +24,7 @@
 ## 📊 Stats
 
 <p align="center">
-  <img width="360" src="https://github-readme-streak-stats.herokuapp.com/?user=codingstudentJan&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codingstudentJan&theme=transparent" />
 </p>
 
 <p align="center">

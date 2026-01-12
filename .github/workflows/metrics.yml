@@ -31,6 +31,7 @@ jobs:
 
           # Languages
           plugin_languages: yes
+          plugin_languages_ignored_repos: codingstudentJan
           plugin_languages_ignored: html, css
           plugin_languages_limit: 8
           plugin_languages_details: bytes-size, percentage
